@@ -1,80 +1,70 @@
-<h1>Syntra clone of Myntra.com</h1>
+# Getting Started with Create React App
 
-<h1>About</h1>
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-<h3>Syntra is a major Indian Fashion e-Commerce Company. Syntra launched an express delivery service on its app to offer one of a kind of experience by fashion & beauty platform. This service allow shoppers to receive their orders for products.</h3>
+## Available Scripts
 
+In the project directory, you can run:
 
-<h1>Tech Stack For Frontend :</h1> <h3>React, Redux, Axios, Chakra UI</h3>
+### `npm start`
 
-<h1>Tech Stack For Backend :</h1> <h3>NodeJs, Mongoose, Express, Cors, Jwt , Bcrypt</h3>
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-<h1>Features :</h1> <h3>Home Page,Login/Signup Page, Products Page, SingleProducts Page,Wishlist Page, Cart Page,Checkout Page  we added  to our website</h3>
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-<h1>Backend Deployment Link </h1>
+### `npm test`
 
-https://calm-cyan-octopus-wear.cyclic.app
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
+### `npm run build`
 
-<h1>Frontend Deployment Link </h1>
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-https://friendly-sorbet-912886.netlify.app/
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-<h1>Logo</h1>
+### `npm run eject`
 
-![sss](https://user-images.githubusercontent.com/110049484/221616098-49dc4b14-adb3-4276-a83a-435be3fdb5e9.png)
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-<h1>Home Page</h1>
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-![Home Page](https://user-images.githubusercontent.com/110049484/221607896-5be7bcbf-4dfc-483a-be75-8f2042876b71.PNG)
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
+## Learn More
 
-<h1>SignUp Page</h1>
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
+To learn React, check out the [React documentation](https://reactjs.org/).
 
-![Signup](https://user-images.githubusercontent.com/110049484/221609783-76412a0d-7d09-4980-847c-a3fb3af1130f.PNG)
+### Code Splitting
 
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
+### Analyzing the Bundle Size
 
-<h1>Login Page</h1>
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-![Login Page](https://user-images.githubusercontent.com/110049484/221609576-a114c587-b5d9-42f7-b409-6d3809d16855.PNG)
+### Making a Progressive Web App
 
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-<h1>Products Page</h1>
+### Advanced Configuration
 
-![Products page](https://user-images.githubusercontent.com/110049484/221613408-0da1e4b1-cc7b-4444-88f7-49311829c192.PNG)
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
+### Deployment
 
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-<h1>Single Products Page</h1>
+### `npm run build` fails to minify
 
-![Single Products Page](https://user-images.githubusercontent.com/110049484/221613627-48a56731-01dc-4d0e-9dcc-eb5b4e238f2a.PNG)
-
-
-
-<h1>Wishlist Page</h1>
-
-![wishlist Page](https://user-images.githubusercontent.com/110049484/221613776-575ab916-8872-491a-866f-0bb33aa1b268.PNG)
-
-
-
-<h1>Cart Page</h1>
-
-
-![bags](https://user-images.githubusercontent.com/110049484/221614176-7e6ab6c8-ffd3-4603-8308-854e35829813.PNG)
-
-
-
-
-<h1>Checkout Page</h1>
-
-![Checkout Page](https://user-images.githubusercontent.com/110049484/221614376-6c006498-f262-4134-a9ad-0892b17e3f79.PNG)
-
-
-
-
-
-
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
